@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - click
+  - door
+  - File
+  - Panel
+  - Breaker
+  - File2
+  - File3
+  - Fire
+  - File4
+  - Stove
+  - OF1
+  - OF2
+  - OF3
+  - OF4
+  - OF5
+  - OF6
+  - OF7
+  - OF8
+  - OF9
+  - OF10
+  - bossdoor
+  - key
+  - answer
+  - OF11
+  - Objectives
+  - lights
+  - M
+  - CM
+  - misc_props
+  - SM
+  - MainOP
+  - SideOP
+  - Setting
+  - Button
+  - Slider
+  - Select
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
